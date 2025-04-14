@@ -9,8 +9,8 @@ Bem-vindos ao meu portifólio aqui você encontrará meus projetos de testes aut
 
 -**teste remove cliente inexistente**  automado em JUnit
 
-- **teste idade aceitavel**  automado em JUnit
-- 
+-**teste idade aceitavel**  automado em JUnit
+
 -**teste idade não permitida**  automado em JUnit
   
   https://github.com/luizcarvalho2/exercicio-01.git
