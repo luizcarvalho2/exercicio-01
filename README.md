@@ -1,4 +1,4 @@
-#Portifólio de QA - Luiz Felipe Carvalho Nascimento
+# Portifólio de QA - Luiz Felipe Carvalho Nascimento
 Bem-vindos ao meu portifólio aqui você encontrará meus projetos de testes automatizados, manuais e estudos de caso
 ## Teste Automatizado - 
 -*teste de pesquisa de cliente* 
